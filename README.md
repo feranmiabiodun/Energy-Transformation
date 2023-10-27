@@ -34,19 +34,19 @@ Here are some project highlights and snapshots that showcase our work in action:
 
 From the insights we uncovered, we were able to build a model that performs the best in predicting energy shortfall, through which we recommended that renewable energy sources should be adopted due to the following advantages:
 
-Environmental Sustainability: Renewable energy sources, such as wind and solar power, have a significantly lower environmental impact compared to fossil fuels. They reduce greenhouse gas emissions and help combat climate change.
+**Environmental Sustainability**: Renewable energy sources, such as wind and solar power, have a significantly lower environmental impact compared to fossil fuels. They reduce greenhouse gas emissions and help combat climate change.
 
-Cost-Efficiency: Over time, renewable energy systems can lead to reduced energy costs, making it a cost-effective choice in the long run.
+**Cost-Efficiency**: Over time, renewable energy systems can lead to reduced energy costs, making it a cost-effective choice in the long run.
 
-Energy Independence: Relying on renewable energy sources reduces dependence on fossil fuel imports, increasing energy security.
+**Energy Independence**: Relying on renewable energy sources reduces dependence on fossil fuel imports, increasing energy security.
 
-Job Creation: The renewable energy sector generates jobs and contributes to economic growth.
+**Job Creation**: The renewable energy sector generates jobs and contributes to economic growth.
 
-Reliability: Renewable energy sources are more reliable in the long term, as they are not subject to the volatility of fossil fuel markets.
+**Reliability**: Renewable energy sources are more reliable in the long term, as they are not subject to the volatility of fossil fuel markets.
 
-Sustainable Growth: Promoting renewable energy aligns with global efforts to achieve sustainable development goals and create a more sustainable and resilient energy future.
+**Sustainable Growth**: Promoting renewable energy aligns with global efforts to achieve sustainable development goals and create a more sustainable and resilient energy future.
 
-Energy Access: Expanding the use of renewable energy can provide energy access to remote and underserved areas.
+**Energy Access**: Expanding the use of renewable energy can provide energy access to remote and underserved areas.
 
 Adopting renewable energy sources offers not only a solution to power shortages but also a pathway to a more sustainable and environmentally friendly energy landscape.
 
