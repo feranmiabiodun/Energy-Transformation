@@ -30,7 +30,7 @@ Here are some project highlights and snapshots that showcase our work in action:
 - Fig 3
    ![Image 3](images/load_shortfall_month.jpg)
 
-#### Recommendation
+#### Recommendations
 
 From the insights we uncovered, we were able to build a model that performs the best in predicting energy shortfall, through which we recommended that renewable energy sources should be adopted due to the following advantages:
 
