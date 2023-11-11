@@ -1,6 +1,7 @@
 ![Image 3](images/energy.jpg)
 
 #### Introduction
+
 In this project, I had the privilege of leading a dynamic team in a project of national significance – ensuring a sustainable electricity supply in Spain. Our mission was to bridge the gap between renewable and fossil fuel energy sources, using data-driven insights. Through thorough analysis and modeling, our team achieved the top position on the leaderboard, showcasing the power of data science in shaping a sustainable energy future. Our project emphasized the real-world impact of data-driven decisions and underscored the critical role of renewables in Spain's energy landscape. It was a journey of both professional growth and meaningful change.
 
 #### Objective
